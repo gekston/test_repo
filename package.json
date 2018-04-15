@@ -1,0 +1,22 @@
+{
+  "name": "test_repo",
+  "version": "1.0.0",
+  "description": "Test repo for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gekstone/test_repo.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Nebeschenko Igor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gekstone/test_repo/issues"
+  },
+  "homepage": "https://github.com/gekstone/test_repo#readme"
+}
