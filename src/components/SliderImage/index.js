@@ -2,6 +2,10 @@ import React, { Component } from 'react'
 import './style.css'
 
 export default class SliderImg extends Component {
+    state = {
+        sliderCount: 1
+    }
+
     render() {
         const { imgCollection } = this.props
         const ArrayOfImg = imgCollection[0].imgCollection
