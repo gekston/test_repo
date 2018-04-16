@@ -12,7 +12,7 @@ export default class SliderImg extends Component {
                 </div>
             )
         return (
-            <div className="list_wrapper">{imgList}</div>
+            <div className="list_wrapper list_wrapper-ext">{imgList}</div>
         )
     }
 }
