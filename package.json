@@ -4,10 +4,9 @@
   "description": "bla bla project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "react-scripts test --env=jsdom",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "repository": {
@@ -19,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/gekstone/test_repo/issues"
   },
-  "homepage": "https://github.com/gekstone/test_repo#readme"
+  "homepage": "https://github.com/gekstone/test_repo#readme",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "^1.1.4"
+  }
 }
