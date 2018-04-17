@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import './style.css'
 
-export default class SliderImg extends Component {
+class SliderImg extends Component {
     state = {
         sliderCount: 1
     }
@@ -20,3 +21,9 @@ export default class SliderImg extends Component {
         )
     }
 }
+
+SliderImg.propTypes = {
+    imgCollection: PropTypes.array.isRequired
+}
+
+export default SliderImg
