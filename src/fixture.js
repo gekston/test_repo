@@ -1,15 +1,15 @@
 // Here data
 export default [
     {"imgCollection": [
-        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/062.JPG", "id": "1"},
-        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/001.JPG", "id": "2"},
-        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/003.JPG", "id": "3"},
+        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/062.JPG", "id": "01"},
+        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/001.JPG", "id": "02"},
+        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/003.JPG", "id": "03"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/002.JPG", "id": "4"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/004.JPG", "id": "5"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/005.JPG", "id": "6"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/006.JPG", "id": "7"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/010.JPG", "id": "8"},
-        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/013.JPG", "id": "9"},
+        {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/013.JPG", "id": "09"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/014.JPG", "id": "10"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/015.JPG", "id": "11"},
         {"src": "https://cards.cdns.com.ua/data/L%202/Day%2001%20Adjectives/016.JPG", "id": "12"},
