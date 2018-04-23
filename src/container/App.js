@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import logo from '../assets/logo.svg';
-import '../assets/App.css';
+import logo from '../assets/logo.svg'
+import '../assets/App.css'
 import SliderImage from '../components/SliderImage'
 import images from '../fixture'
 
@@ -14,4 +14,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App
