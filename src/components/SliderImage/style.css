@@ -1,3 +1,19 @@
-.list_wrapper {}
-.wrapper_item {}
-.wrapper_item-img {}
+.list_wrapper {
+    overflow: hidden;
+    margin: 0 auto;
+}
+.list_wrapper::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.wrapper_item {
+    float: left;
+}
+.wrapper_item::after {
+    content: '';
+    display: block;
+}
+.wrapper_item-img {
+    display: block;
+}
